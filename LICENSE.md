@@ -1,4 +1,4 @@
-Copyright 2015, Gregg Tavares.
+Copyright 2024 AD
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
